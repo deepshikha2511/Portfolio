@@ -191,7 +191,7 @@ div {
 .gamename {
     position: absolute;
     top: 150px;
-    background-color: purple;
+    background-color: lightskyblue;
     width: 200px;
     text-align: center;
     font-family: "Times New Roman";
@@ -262,4 +262,8 @@ input {
     padding-bottom: 10px;
     box-sizing: border-box;
     width: 100%;
+}
+
+a {
+    color: black;
 }
